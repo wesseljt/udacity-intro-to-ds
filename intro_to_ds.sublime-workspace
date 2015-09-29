@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pred",
+				"predictions"
+			],
+			[
+				"sh",
+				"ship_date"
+			],
+			[
+				"origin",
+				"origin_zip"
+			],
+			[
+				"or",
+				"origin_zip"
+			],
+			[
+				"ori",
+				"origin_city"
+			],
+			[
+				"from",
+				"from_records"
+			],
+			[
+				"orig",
+				"origin_address〔variable〕"
+			],
+			[
+				"stre",
+				"street_1"
+			],
+			[
+				"stree",
+				"street_2"
+			],
+			[
+				"st",
+				"state_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package ss",
+				"Package Control: List Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jwessel/udacity-intro-to-ds/lesson_1/lesson_1_problems.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_1/lesson_1_dataframes.py",
+		"/Users/jwessel/Desktop/Hey Mike,",
+		"/Users/jwessel/api-in-a-box/README.md",
+		"/Users/jwessel/api-in-a-box/docker-compose.yml",
+		"/Users/jwessel/Desktop/Coveris Waterfall BB.rdl",
+		"/Users/jwessel/Desktop/rest-api-python-sample/REST-API-sample.py",
+		"/Users/jwessel/Desktop/line-clipart-xTg7p58TA.svg",
+		"/Users/jwessel/Desktop/TABLES",
+		"/private/var/folders/tg/0ntkknd90tvbyyh8g7rv0rn40000gn/T/com.evernote.Evernote/com.evernote.Evernote/WebKitDnD.OZcRZ1/SSRS_Clean_Up_Fall_2015.sql",
+		"/Users/jwessel/Desktop/Transource 3 Days Old Delivery Status.rdl",
+		"/Users/jwessel/Dropbox (M33)/Tableau_WebDataConnector_sdk/Examples/jsonConnector.html",
+		"/Users/jwessel/Desktop/json_ship",
+		"/Users/jwessel/Desktop/SSRS_Clean_Up_Fall_2015.sql",
+		"/Users/jwessel/Downloads/Client Accrual and Open Invoice Report Blackbeard.rdl",
+		"/Users/jwessel/Downloads/Client Accrual and Open Invoice Report Blackbeard_New.rdl",
+		"/Users/jwessel/Desktop/Load-to-Truck Ratio - Reefer",
+		"/Users/jwessel/Desktop/Load-to-Truck Ratio - Van Aug 2015",
+		"/Users/jwessel/Desktop/Client Appointment Delivery Date Change.rdl",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/zip_code_app/flask/app.py",
+		"/Users/jwessel/Dropbox (M33)/Udacity/python_final_project/zip_code_app/flask/zipapp.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/zip_code_app/app.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/location.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/demo-data/locations.csv",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/demo-data/order_api_example.csv",
+		"/Users/jwessel/Desktop/test.py",
+		"/Users/jwessel/Desktop/address.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/address.py",
+		"/Users/jwessel/Library/Application Support/Sublime Text 2/Packages/Fix Mac Path/FixPath.py",
+		"/Users/jwessel/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/Users/jwessel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jwessel/Dropbox/Prefs&Drivers/homebrew_setup.txt",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/stop.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/state.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/country.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/postal.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/city.py",
+		"/Users/jwessel/Dropbox/Udacity/python_final_project/Order Consolidation App/order.py",
+		"/Users/jwessel/Desktop/GUAR_CLOSE_LOADS.TXT",
+		"/Users/jwessel/Desktop/Michelin - Monthly Management Invoice Backup Documentation.rdl",
+		"/Users/jwessel/Desktop/Michelin Billing Report.rdl",
+		"/Users/jwessel/Desktop/Accutech Weekly Statement Supplemental Report.rdl",
+		"/Users/jwessel/Downloads/Accutech Weekly Statement Supplemental Report.rdl",
+		"/Users/jwessel/Downloads/Duro Weekly Statement Supplemental Report.rdl",
+		"/Users/jwessel/Downloads/Hilex Weekly Statement Supplemental Report.rdl",
+		"/Users/jwessel/Downloads/Fortune Plastics Weekly Statement Supplemental Report.rdl",
+		"/Users/jwessel/Desktop/shipment_stop_query.sql",
+		"/Users/jwessel/Desktop/Valerus Metrics Requirements.txt",
+		"/Users/jwessel/Documents/VMs/Windows 10 x64.vmwarevm/Windows 10 x64.vmx",
+		"/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app/Contents/Info.plist",
+		"/Users/jwessel/Desktop/McLeod/brokerage revenue.sql",
+		"/Users/jwessel/Desktop/PolyPlastics.csv",
+		"/Users/jwessel/Desktop/ltl_out_new.sql",
+		"/Users/jwessel/Desktop/TL_OUT_NEW.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'WH''EN'",
+			"'CA''SE'",
+			"[A-Z]{2}",
+			"(",
+			"WHEN IN",
+			"THEN",
+			"	",
+			"pickup_date::date",
+			"::date",
+			",\n",
+			"&",
+			"=",
+			"val_",
+			"&",
+			"=",
+			"Load-to-Truck",
+			"Reefer",
+			"4 = 5.5+",
+			"Load-to-Truck",
+			"SC",
+			"multi",
+			"mode",
+			"\"weight\"",
+			"weight",
+			"SELECT\n'M33' || s.shipment_id as shipment_id,\ns.source,\nst.statement_id as statement_id,\ns.bill_of_lading_number as bol_numbers,\ncrn.order_id,\ns.carrier_name as carrier_name,\nsl.origin_city as shipper_city,\nsl.origin_state as shipper_state,\ns.actual_pickup_date,\ns.actual_delivery_date,\ns.weight as shipment_weight,\ns.carrier_pro,\nsl.origin_name as shipper_name,\ncrn.cross_reference_number as cross_reference_number,\nsl.destination_name as consignee_name,\nsl.dest_city as consignee_city,\nsl.dest_state as consignee_state,\nst.statement_balance as statement_balance,\ns.internal_notes as special_instructions,\nlid.line_item_weight as product_weight,\n(sr.client_cost_accessorial + sr.client_cost_base_rate + sr.client_cost_fuel_surcharge) as client_cost,\nlid.product_description,\nlid.handling_unit_count,\nCASE\n    WHEN s.ship_without_contact = 'false' THEN 'No'\n    WHEN s.ship_without_contact = 'true' THEN 'Yes'\nEnd as is_swc,\nlid.product_gl_code,\nlid.bol_gl_code,\nROUND(((nullif(lid.line_item_weight,0)/s.weight)*(sr.client_cost_accessorial + sr.client_cost_base_rate + sr.client_cost_fuel_surcharge)),2) as allocated_cost\nFROM bb.nightly_shipments s\nINNER JOIN bb.nightly_ship_locations sl\n    ON s.shipment_id = sl.shipment_id\nINNER JOIN bb.nightly_ship_rates_pivot sr\n    ON s.shipment_id = sr.shipment_id\nINNER JOIN bb.nightly_statement st\n    ON s.shipment_id = st.shipment_id\nINNER JOIN (\nselect bol.shipment_id, l.cross_reference_number, bol.cross_reference_number as order_id \nfrom bill_of_lading bol \nINNER JOIN location l \n    ON bol.shipper_id = l.id \n    and bol.is_first_bill_of_lading = 't' \nINNER JOIN client cl \n    ON l.client_id = cl.id \nWHERE cl.id = 25) crn\n    ON s.shipment_id = crn.shipment_id\nLEFT JOIN bb.nightly_line_item_detail lid\n    ON s.shipment_id = lid.shipment_id\nLEFT JOIN bb.nightly_ship_rates_currency src\n    ON s.shipment_id = src.shipment_id\n\nWHERE s.code = 'HILX'\nAND st.shipment_on_previous_statement = 'f'\nAND (sr.client_cost_accessorial + sr.client_cost_base_rate + sr.client_cost_fuel_surcharge) &gt; 0\nAND NOT s.customer_routed\nAND st.statement_as_of_date &gt;=  (now() - '6 days':: interval)::date\nAND src.currency_code = 'USD'\n\nGROUP BY\n'M33' || s.shipment_id,\ns.source,\nst.statement_id,\ns.bill_of_lading_number,\ncrn.order_id,\ns.carrier_name,\nsl.origin_city,\nsl.origin_state,\ns.actual_pickup_date,\ns.actual_delivery_date,\ns.weight,\ns.carrier_pro,\nsl.origin_name,\ncrn.cross_reference_number,\nsl.destination_name,\nsl.dest_city,\nsl.dest_state,\nst.statement_balance,\ns.internal_notes,\nlid.line_item_weight,\n(sr.client_cost_accessorial + sr.client_cost_base_rate + sr.client_cost_fuel_surcharge),\nlid.product_description,\nlid.handling_unit_count,\nCASE\n    WHEN s.ship_without_contact = 'false' THEN 'No'\n    WHEN s.ship_without_contact = 'true' THEN 'Yes'\nEnd,\nlid.product_gl_code,",
+			"bios",
+			"round"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"WHEN",
+			"CASE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
