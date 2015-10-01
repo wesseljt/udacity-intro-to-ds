@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"full",
+				"fullname"
+			],
+			[
+				"pat",
+				"path_to_new_csv	statement"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"na",
+				"nameLast"
+			],
+			[
+				"fi",
+				"nameFirst"
+			],
+			[
+				"pe",
+				"passenger"
+			],
+			[
+				"pa",
+				"passenger_id	statement"
+			],
+			[
+				"pas",
+				"passenger	forstmt"
+			],
+			[
+				"simple",
+				"simple_heuristic	function"
+			],
+			[
+				"pass",
+				"passenger_id	statement"
+			],
+			[
+				"TI",
+				"titanic_data"
+			],
+			[
 				"pred",
 				"predictions"
 			],
@@ -49,9 +93,14 @@
 	[
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 67.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -111,7 +160,11 @@
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -122,10 +175,26 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/jwessel/udacity-intro-to-ds",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_1",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_2"
+	],
 	"file_history":
 	[
-		"/Users/jwessel/udacity-intro-to-ds/lesson_1/lesson_1_problems.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_2/problem_set_2.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_2/lesson_2_b.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_2/txt",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_2/lahman-csv_2015-01-24/fullname.csv",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_2/lesson_2.py",
+		"/Users/jwessel/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/jwessel/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/jwessel/Library/Application Support/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
 		"/Users/jwessel/udacity-intro-to-ds/lesson_1/lesson_1_dataframes.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_1/lesson_1_problems_set.py",
+		"/Users/jwessel/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_1/lesson_1_problems.py",
 		"/Users/jwessel/Desktop/Hey Mike,",
 		"/Users/jwessel/api-in-a-box/README.md",
 		"/Users/jwessel/api-in-a-box/docker-compose.yml",
@@ -181,11 +250,11 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 		]
@@ -248,7 +317,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -279,20 +348,23 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 137.0
+		"height": 151.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "intro_to_ds.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -301,15 +373,32 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 197.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }

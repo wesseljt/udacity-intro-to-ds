@@ -33,3 +33,6 @@ def imputation(filename):
     baseball['weight'] = baseball['weight'].fillna(numpy.mean(baseball['weight']))
 
     return baseball
+
+
+    
