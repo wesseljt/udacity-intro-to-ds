@@ -72,12 +72,7 @@ def gradient_descent(features, values, theta, alpha, num_iterations):
     # times. Every time you compute the cost for a given list of thetas, append it 
     # to cost_history.
     # See the Instructor notes for hints. 
-    m = len(values)
-    cost_history = []
-    for i in range (num_iterations):
-        predicted_values= numpy.dot(features,theta)
-        theta = theta - alpha / m * numpy.dot((predicted_values-values),features)
-        cost = compute_cost(features,values,theta)
+
         cost_history.append(cost)
 
     ###########################
