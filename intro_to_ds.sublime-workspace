@@ -178,11 +178,15 @@
 	"expanded_folders":
 	[
 		"/Users/jwessel/udacity-intro-to-ds",
-		"/Users/jwessel/udacity-intro-to-ds/lesson_1",
-		"/Users/jwessel/udacity-intro-to-ds/lesson_2"
+		"/Users/jwessel/udacity-intro-to-ds/lesson_3"
 	],
 	"file_history":
 	[
+		"/Users/jwessel/Dropbox/Udacity/intro_to_python/inheritance.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_4/lesson_4.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_4/lesson_4_problem_set.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_3/lesson_3_problem_set.py",
+		"/Users/jwessel/udacity-intro-to-ds/lesson_3/lesson_3.py",
 		"/Users/jwessel/udacity-intro-to-ds/lesson_2/problem_set_2.py",
 		"/Users/jwessel/udacity-intro-to-ds/lesson_2/lesson_2_b.py",
 		"/Users/jwessel/udacity-intro-to-ds/lesson_2/txt",
@@ -250,7 +254,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -264,6 +268,17 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"val_",
+			"ran",
+			"&",
+			"range",
+			"&",
+			"range",
+			"&",
+			"val_",
+			"R",
+			">>>",
+			"R",
 			"'WH''EN'",
 			"'CA''SE'",
 			"[A-Z]{2}",
